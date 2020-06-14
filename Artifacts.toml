@@ -1,0 +1,8 @@
+[[mpv]]
+arch = "x86_64"
+git-tree-sha1 = "1b896736ab5f82562b2b5a551f69226c68d09272"
+os = "windows"
+
+    [[mpv.download]]
+    sha256 = "e09d57e477a589c88b289e9db5588da06c8b3ca4fed961881aff4d65e2131372"
+    url = "https://github.com/aviks/mpv_jll/releases/download/mpv-v0.32.0+0/mpv.v0.32.0.x86_64-w64-mingw32.tar.gz"
